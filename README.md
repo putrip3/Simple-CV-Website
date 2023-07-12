@@ -3,7 +3,7 @@
 # Feature
 
  - Simple interface, accessible from  various devices.
- - Information about me such as education, organization, and contac. 
+ - Information about me such as education, organization, and contact. 
  - List of skills
  - Portfolio like certification and projects
 # Contributors 
