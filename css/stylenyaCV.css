@@ -13,7 +13,7 @@ body {
   right: 16px;
   margin-top: 25px;
   margin-bottom: 25px;
-  margin-right: 40px;
+  margin-right: 60px;
   margin-left: 25px;
 }
 
@@ -63,4 +63,9 @@ button {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+img {
+  width: 200px; 
+  height: 200px; 
 }
